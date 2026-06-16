@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ParentManagement.Application/ParentManagement.Application.csproj" />
+  <Project Path="ParentManagement.Domain/ParentManagement.Domain.csproj" />
+  <Project Path="ParentManagement.Infrastructure/ParentManagement.Infrastructure.csproj" />
+  <Project Path="ParentManagement.Tests/ParentManagement.Tests.csproj" />
+  <Project Path="ParentManagement/ParentManagement.csproj" />
+</Solution>

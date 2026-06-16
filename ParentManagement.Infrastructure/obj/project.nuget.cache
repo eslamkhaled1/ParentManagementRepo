@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rCsgBq8KYJ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ParentManagement\\ParentManagement.Infrastructure\\ParentManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

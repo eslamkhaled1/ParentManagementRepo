@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Infrastructure.deps.json
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Infrastructure.dll
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Infrastructure.pdb
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Application.dll
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Domain.dll
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Application.pdb
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\bin\Debug\net8.0\ParentManagement.Domain.pdb
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentMa.935706B4.Up2Date
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.dll
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\refint\ParentManagement.Infrastructure.dll
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ParentManagement.Infrastructure.pdb
+C:\Users\PC\source\repos\ParentManagement\ParentManagement.Infrastructure\obj\Debug\net8.0\ref\ParentManagement.Infrastructure.dll
