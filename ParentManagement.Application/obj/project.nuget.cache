@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfUFXRzQYBw=",
+  "dgSpecHash": "BiojaJf8pYg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ParentManagement\\ParentManagement.Application\\ParentManagement.Application.csproj",
+  "projectFilePath": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Application\\ParentManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"

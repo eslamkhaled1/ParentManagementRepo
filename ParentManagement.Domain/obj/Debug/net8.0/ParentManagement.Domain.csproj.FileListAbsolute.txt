@@ -9,3 +9,15 @@ C:\Users\PC\source\repos\ParentManagement\ParentManagement.Domain\obj\Debug\net8
 C:\Users\PC\source\repos\ParentManagement\ParentManagement.Domain\obj\Debug\net8.0\refint\ParentManagement.Domain.dll
 C:\Users\PC\source\repos\ParentManagement\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.pdb
 C:\Users\PC\source\repos\ParentManagement\ParentManagement.Domain\obj\Debug\net8.0\ref\ParentManagement.Domain.dll
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\bin\Debug\net8.0\ParentManagement.Domain.deps.json
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\bin\Debug\net8.0\ParentManagement.Domain.dll
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\bin\Debug\net8.0\ParentManagement.Domain.pdb
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.AssemblyInfoInputs.cache
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.AssemblyInfo.cs
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.csproj.CoreCompileInputs.cache
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.sourcelink.json
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.dll
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\refint\ParentManagement.Domain.dll
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ParentManagement.Domain.pdb
+D:\GitRepos\ParentManagementRepo\ParentManagement.Domain\obj\Debug\net8.0\ref\ParentManagement.Domain.dll

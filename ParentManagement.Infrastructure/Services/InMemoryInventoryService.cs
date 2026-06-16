@@ -21,7 +21,7 @@ namespace ParentManagement.Infrastructure.Services
 
         public Task<bool> ReduceStockAsync(string sku, int quantity)
         {
-            // For simplicity, only reduce if enough stock exists
+            // only reduce if enough stock exists
             if (!_stock.TryGetValue(sku, out var current) || current < quantity) return Task.FromResult(false);
             _stock[sku] = current - quantity;
             return Task.FromResult(true);

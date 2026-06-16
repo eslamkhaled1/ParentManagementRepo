@@ -1,0 +1,47 @@
+@page
+@model ParentManagement.Pages.Orders.ConfirmOrderModel
+@{
+    Layout = "_Layout";
+}
+<h1>Order for @Html.Encode(Model.SchoolName)</h1>
+<form method="post">
+    @Html.AntiForgeryToken()
+    <div id="order-lines">
+        @foreach (var line in Model.Lines)
+        {
+            <div class="order-line" data-line-id="@line.Id" data-unit-price="@line.UnitPrice">
+                <span class="sku">@Html.Encode(line.Sku)</span> —
+                <span class="embroidery">@Html.Encode(line.Embroidery)</span>
+                <input type="number" min="0" class="qty" name="qty_@line.Id" value="@line.Quantity" />
+                <span class="line-total">£@String.Format("{0:0.00}", line.UnitPrice * line.Quantity)</span>
+            </div>
+        }
+    </div>
+    <div id="subtotal" style="font-size:18px;color:#333">Subtotal: £@String.Format("{0:0.00}", Model.Subtotal)</div>
+    <button type="submit" class="btn btn-primary">Confirm</button>
+</form>
+<script>
+(function(){
+  function formatPounds(n){ return '£' + n.toFixed(2); }
+  function recalc(){
+    const lines = document.querySelectorAll('.order-line');
+    let subtotal = 0;
+    lines.forEach(line => {
+      const unit = parseFloat(line.dataset.unitPrice) || 0;
+      const qtyInput = line.querySelector('.qty');
+      const qty = parseInt(qtyInput.value) || 0;
+      const lineTotal = unit * qty;
+      subtotal += lineTotal;
+      const display = line.querySelector('.line-total');
+      if(display) display.textContent = formatPounds(lineTotal);
+    });
+    const subtotalEl = document.getElementById('subtotal');
+    if(subtotalEl) subtotalEl.textContent = 'Subtotal: ' + formatPounds(subtotal);
+  }
+  document.getElementById('order-lines').addEventListener('input', function(e){
+    if(e.target && e.target.classList.contains('qty')) recalc();
+  });
+  // initialize display
+  recalc();
+})();
+</script>

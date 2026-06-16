@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepos\\ParentManagementRepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitRepos\\ParentManagementRepo\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Orders\\ConfirmOrder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Orders\\ConfirmOrder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D616C4-2A93-701F-A21F-B42602716FAE}|ParentManagement.Infrastructure\\ParentManagement.Infrastructure.csproj|d:\\gitrepos\\parentmanagementrepo\\parentmanagement.infrastructure\\services\\inmemoryinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D616C4-2A93-701F-A21F-B42602716FAE}|ParentManagement.Infrastructure\\ParentManagement.Infrastructure.csproj|solutionrelative:parentmanagement.infrastructure\\services\\inmemoryinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D616C4-2A93-701F-A21F-B42602716FAE}|ParentManagement.Infrastructure\\ParentManagement.Infrastructure.csproj|d:\\gitrepos\\parentmanagementrepo\\parentmanagement.infrastructure\\email\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D616C4-2A93-701F-A21F-B42602716FAE}|ParentManagement.Infrastructure\\ParentManagement.Infrastructure.csproj|solutionrelative:parentmanagement.infrastructure\\email\\fakeemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmOrder.cshtml.cs",
+              "DocumentMoniker": "D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\ConfirmOrder.cshtml.cs",
+              "ToolTip": "D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\ConfirmOrder.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T17:44:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmOrder.cshtml",
+              "DocumentMoniker": "D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\ConfirmOrder.cshtml",
+              "ToolTip": "D:\\GitRepos\\ParentManagementRepo\\Pages\\Orders\\ConfirmOrder.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\ConfirmOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-16T17:44:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\GitRepos\\ParentManagementRepo\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\GitRepos\\ParentManagementRepo\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-16T17:43:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryInventoryService.cs",
+              "DocumentMoniker": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Infrastructure\\Services\\InMemoryInventoryService.cs",
+              "RelativeDocumentMoniker": "ParentManagement.Infrastructure\\Services\\InMemoryInventoryService.cs",
+              "ToolTip": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Infrastructure\\Services\\InMemoryInventoryService.cs",
+              "RelativeToolTip": "ParentManagement.Infrastructure\\Services\\InMemoryInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:35:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeEmailSender.cs",
+              "DocumentMoniker": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Infrastructure\\Email\\FakeEmailSender.cs",
+              "RelativeDocumentMoniker": "ParentManagement.Infrastructure\\Email\\FakeEmailSender.cs",
+              "ToolTip": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Infrastructure\\Email\\FakeEmailSender.cs",
+              "RelativeToolTip": "ParentManagement.Infrastructure\\Email\\FakeEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:33:49.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

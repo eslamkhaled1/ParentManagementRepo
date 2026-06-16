@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZerqzIAd160=",
+  "dgSpecHash": "kvRR2VkhgPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ParentManagement\\ParentManagement.Tests\\ParentManagement.Tests.csproj",
+  "projectFilePath": "D:\\GitRepos\\ParentManagementRepo\\ParentManagement.Tests\\ParentManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
